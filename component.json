@@ -4,10 +4,9 @@
   "description": "Test browser rendering/styling quirks. Extracted from jQuery",
   "version": "0.0.4",
   "keywords": [],
-  "dependencies": {
-    "ded/domready": "*"
-  },
+  "dependencies": {},
   "development": {
+    "ded/domready": "*",
     "timoxley/assert": "*"
   },
   "scripts": [

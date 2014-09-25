@@ -1,4 +1,10 @@
-var domready = require('domready')
+var domready = function(fn) {
+	var ev = 'DOMContentLoaded';
+	document.addEventListener(ev, function call() {
+		document.removeEventListener(ev, call, false);
+		fn();
+	}, false);
+};
 
 module.exports = (function() {
 

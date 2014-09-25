@@ -5,9 +5,7 @@
   "keywords": [
     "browser"
   ],
-  "dependencies": {
-    "domready": "*"
-  },
+  "dependencies": {},
   "component": {
     "scripts": {
       "dom-support/index.js": "index.js"
