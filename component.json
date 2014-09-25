@@ -8,9 +8,7 @@
     "ded/domready": "*"
   },
   "development": {
-    "dependencies": {
-      "timoxley/assert": "*"
-    }
+    "timoxley/assert": "*"
   },
   "scripts": [
     "index.js"
