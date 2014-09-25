@@ -1,5 +1,5 @@
 var assert = require('timoxley-assert')
-var domready = require('enyo-domready')()
+var domready = require('domready')
 var test = it
 
 var ok = assert.ok
