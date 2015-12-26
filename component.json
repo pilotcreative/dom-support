@@ -1,6 +1,6 @@
 {
   "name": "dom-support",
-  "repository": "porada/dom-support",
+  "repository": "pilotcreative/dom-support",
   "description": "Test browser rendering/styling quirks. Extracted from jQuery",
   "version": "0.0.4",
   "keywords": [],
